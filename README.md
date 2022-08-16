@@ -19,6 +19,7 @@
   <a href="https://instagram.com/mjkaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mjkaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+![Snake animation](https://github.com/mjkaraujo/Mauricio Araujo/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 mjkaraujo/mjkaraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
