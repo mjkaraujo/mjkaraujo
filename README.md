@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou o Mauricio Araujo do @mjkaraujo estudante e criador de conteúdo de programação e tecnologia
+# 👋 Oi, eu sou o Mauricio Araujo do @mjkaraujo estudante de programação e tecnologia.
 <div align="center">
   <a href="https://github.com/mjkaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjkaraujo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
