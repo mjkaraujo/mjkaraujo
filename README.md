@@ -2,9 +2,8 @@
 <div align="center">
 
   <a href="https://github.com/mjkaraujo">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/>
- 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="MJK-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
